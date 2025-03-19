@@ -12,24 +12,24 @@ namespace Practice.PresentationLayer.Controllers
 {
     public class CustomerController : Controller
     {
-        private readonly ICustomerRepository _context;
+        private readonly IGenericRepository<Customer> _repository;
 
-        public CustomerController(ICustomerRepository context)
+        public CustomerController(IGenericRepository<Customer> repository)
         {
-            _context = context;
+            _repository = repository;
         }
 
         // GET: Customer
         public async Task<IActionResult> List()
         {
-            return View(_context.GetAllCustomers());
+            return View(_repository.GetAll());
         }
 
         // GET: Customer/Details/5
         public async Task<IActionResult> Details(int id)
         {
             
-            return View(_context.GetCustomerById(id));
+            return View(_repository.GetById(id));
         }
 
         // GET: Customer/Create
@@ -45,14 +45,14 @@ namespace Practice.PresentationLayer.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name")] Customer customer)
         {
-            _context.AddCustomer(customer);
+            _repository.Add(customer);
             return RedirectToAction(nameof(List));
         }
 
         // GET: Customer/Edit/5
         public async Task<IActionResult> Edit(Customer customer)
         {
-            return View(_context.GetCustomerById(customer.Id));
+            return View(_repository.GetById(customer.Id));
         }
 
         // POST: Customer/Edit/5
@@ -63,14 +63,14 @@ namespace Practice.PresentationLayer.Controllers
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name")] Customer customer)
         {
 
-            _context.UpdateCustomer(customer);
+            _repository.Update(customer);
             return RedirectToAction(nameof(List));
         }
 
         // GET: Customer/Delete/5
         public async Task<IActionResult> Delete(Customer customer)
         {
-            return View(_context.GetCustomerById(customer.Id));
+            return View(_repository.GetById(customer.Id));
         }
 
         // POST: Customer/Delete/5
@@ -78,7 +78,7 @@ namespace Practice.PresentationLayer.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(Customer customer)
         {
-            _context.DeleteCustomer(customer);
+            _repository.Delete(customer);
             return RedirectToAction(nameof(List));
         }
 

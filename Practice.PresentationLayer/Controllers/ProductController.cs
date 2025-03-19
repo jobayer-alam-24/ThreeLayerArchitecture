@@ -7,8 +7,8 @@ namespace Practice.PresentationLayer.Controllers
 {
     public class ProductController : Controller
     {
-        private readonly IProductRepository _repository;
-        public ProductController(IProductRepository repository)
+        private readonly IGenericRepository<Product> _repository;
+        public ProductController(IGenericRepository<Product> repository)
         {
             _repository = repository;
         }
@@ -16,13 +16,13 @@ namespace Practice.PresentationLayer.Controllers
         // GET: ProductController
         public ActionResult List()
         {
-            return View(_repository.GetAllProducts());
+            return View(_repository.GetAll());
         }
 
         // GET: ProductController/Details/5
         public ActionResult Details(int id)
         {
-            return View(_repository.GetProductById(id));
+            return View(_repository.GetById(id));
         }
 
         // GET: ProductController/Create
@@ -38,7 +38,7 @@ namespace Practice.PresentationLayer.Controllers
         {
             try
             {
-                _repository.AddProduct(product);
+                _repository.Add(product);
                 return RedirectToAction(nameof(List));
             }
             catch(Exception ex) 
@@ -50,7 +50,7 @@ namespace Practice.PresentationLayer.Controllers
         // GET: ProductController/Edit/5
         public ActionResult Edit(int id)
         {
-            return View(_repository.GetProductById(id));
+            return View(_repository.GetById(id));
         }
 
         // POST: ProductController/Edit/5
@@ -60,7 +60,7 @@ namespace Practice.PresentationLayer.Controllers
         {
             try
             {
-                _repository.UpdateProduct(product);
+                _repository.Update(product);
                 return RedirectToAction(nameof(List));
             }
             catch
@@ -73,7 +73,7 @@ namespace Practice.PresentationLayer.Controllers
         [HttpGet]
         public ActionResult Delete(Product product)
         {
-            return View(_repository.GetProductById(product.Id));
+            return View(_repository.GetById(product.Id));
         }
 
         // POST: ProductController/Delete/5
@@ -83,7 +83,7 @@ namespace Practice.PresentationLayer.Controllers
         {
             try
             {
-                _repository.DeleteProduct(product);
+                _repository.Delete(product);
                 return RedirectToAction(nameof(List));
             }
             catch(Exception ex)
