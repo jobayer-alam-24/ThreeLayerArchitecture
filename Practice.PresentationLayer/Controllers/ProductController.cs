@@ -7,8 +7,8 @@ namespace Practice.PresentationLayer.Controllers
 {
     public class ProductController : Controller
     {
-        private readonly ProductRepository _repository;
-        public ProductController(ProductRepository repository)
+        private readonly IProductRepository _repository;
+        public ProductController(IProductRepository repository)
         {
             _repository = repository;
         }

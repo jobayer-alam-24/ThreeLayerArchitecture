@@ -9,3 +9,15 @@ D:\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.dll
 D:\Practice.DataAccessLayer\obj\Debug\net8.0\refint\Practice.DataAccessLayer.dll
 D:\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.pdb
 D:\Practice.DataAccessLayer\obj\Debug\net8.0\ref\Practice.DataAccessLayer.dll
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\bin\Debug\net8.0\Practice.DataAccessLayer.deps.json
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\bin\Debug\net8.0\Practice.DataAccessLayer.dll
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\bin\Debug\net8.0\Practice.DataAccessLayer.pdb
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.AssemblyInfoInputs.cache
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.AssemblyInfo.cs
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.sourcelink.json
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.dll
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\obj\Debug\net8.0\refint\Practice.DataAccessLayer.dll
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.pdb
+D:\ThreeLayerArchitecture\Practice.DataAccessLayer\obj\Debug\net8.0\ref\Practice.DataAccessLayer.dll
