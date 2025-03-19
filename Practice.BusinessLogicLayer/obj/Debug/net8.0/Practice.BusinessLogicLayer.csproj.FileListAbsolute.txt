@@ -1,0 +1,17 @@
+D:\Practice.BusinessLogicLayer\bin\Debug\net8.0\Practice.BusinessLogicLayer.deps.json
+D:\Practice.BusinessLogicLayer\bin\Debug\net8.0\Practice.BusinessLogicLayer.runtimeconfig.json
+D:\Practice.BusinessLogicLayer\bin\Debug\net8.0\Practice.BusinessLogicLayer.dll
+D:\Practice.BusinessLogicLayer\bin\Debug\net8.0\Practice.BusinessLogicLayer.pdb
+D:\Practice.BusinessLogicLayer\bin\Debug\net8.0\Practice.DataAccessLayer.dll
+D:\Practice.BusinessLogicLayer\bin\Debug\net8.0\Practice.DataAccessLayer.pdb
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\Practice.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\Practice.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\Practice.BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\Practice.BusinessLogicLayer.AssemblyInfo.cs
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\Practice.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\Practice.8DEA45E3.Up2Date
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\Practice.BusinessLogicLayer.dll
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\refint\Practice.BusinessLogicLayer.dll
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\Practice.BusinessLogicLayer.pdb
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\Practice.BusinessLogicLayer.genruntimeconfig.cache
+D:\Practice.BusinessLogicLayer\obj\Debug\net8.0\ref\Practice.BusinessLogicLayer.dll

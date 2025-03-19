@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice.PresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD361C8A-9A59-4DCA-9BD2-06CE272399F3}|Practice.PresentationLayer.csproj|d:\\practice.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD361C8A-9A59-4DCA-9BD2-06CE272399F3}|Practice.PresentationLayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD361C8A-9A59-4DCA-9BD2-06CE272399F3}|Practice.PresentationLayer.csproj|d:\\practice.presentationlayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD361C8A-9A59-4DCA-9BD2-06CE272399F3}|Practice.PresentationLayer.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD361C8A-9A59-4DCA-9BD2-06CE272399F3}|Practice.PresentationLayer.csproj|d:\\practice.presentationlayer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD361C8A-9A59-4DCA-9BD2-06CE272399F3}|Practice.PresentationLayer.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D984D4-25C9-4B73-800A-9BEA14F4C788}|..\\Practice.BusinessLogicLayer\\Practice.BusinessLogicLayer.csproj|d:\\practice.businesslogiclayer\\models\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D984D4-25C9-4B73-800A-9BEA14F4C788}|..\\Practice.BusinessLogicLayer\\Practice.BusinessLogicLayer.csproj|d:\\practice.businesslogiclayer\\models\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice.PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Practice.PresentationLayer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:11:11.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Practice.PresentationLayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Practice.PresentationLayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T09:10:29.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Practice.PresentationLayer\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Practice.PresentationLayer\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwEkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:50:35.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Practice.BusinessLogicLayer\\Models\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practice.BusinessLogicLayer\\Models\\ProductRepository.cs",
+              "ToolTip": "D:\\Practice.BusinessLogicLayer\\Models\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Practice.BusinessLogicLayer\\Models\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:48:42.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Practice.BusinessLogicLayer\\Models\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practice.BusinessLogicLayer\\Models\\CustomerRepository.cs",
+              "ToolTip": "D:\\Practice.BusinessLogicLayer\\Models\\CustomerRepository.cs",
+              "RelativeToolTip": "..\\Practice.BusinessLogicLayer\\Models\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:48:38.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

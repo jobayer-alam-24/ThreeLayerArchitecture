@@ -1,0 +1,11 @@
+D:\Practice.DataAccessLayer\bin\Debug\net8.0\Practice.DataAccessLayer.deps.json
+D:\Practice.DataAccessLayer\bin\Debug\net8.0\Practice.DataAccessLayer.dll
+D:\Practice.DataAccessLayer\bin\Debug\net8.0\Practice.DataAccessLayer.pdb
+D:\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.AssemblyInfo.cs
+D:\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.dll
+D:\Practice.DataAccessLayer\obj\Debug\net8.0\refint\Practice.DataAccessLayer.dll
+D:\Practice.DataAccessLayer\obj\Debug\net8.0\Practice.DataAccessLayer.pdb
+D:\Practice.DataAccessLayer\obj\Debug\net8.0\ref\Practice.DataAccessLayer.dll
